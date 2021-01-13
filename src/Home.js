@@ -13,40 +13,40 @@ function Home() {
 
       <div className="home__row">
         <Product
-          id={1234123}
+          id={12332}
           title={"Book: How to be Rich"}
           price={129.0}
           rating={5}
           image="https://images-na.ssl-images-amazon.com/images/I/91lx7ksfr1L.jpg"
         />
         <Product
-          id={1234123}
-          title={"Book: How to be Rich"}
-          price={129.0}
-          rating={5}
+          id={1545646}
+          title={"Book: Become super Rich"}
+          price={12.0}
+          rating={2}
           image="https://images-na.ssl-images-amazon.com/images/I/91lx7ksfr1L.jpg"
         />
       </div>
       <div className="home__row">
         <Product
-          id={1234123}
-          title={"Book: How to be Rich"}
-          price={129.0}
-          rating={5}
+          id={165643}
+          title={"Book: Rich Quick"}
+          price={15.0}
+          rating={2}
           image="https://images-na.ssl-images-amazon.com/images/I/91lx7ksfr1L.jpg"
         />
         <Product
-          id={1234123}
-          title={"Book: How to be Rich"}
-          price={129.0}
-          rating={5}
+          id={1656533}
+          title={"Book: How to earn more money"}
+          price={1.3}
+          rating={4}
           image="https://images-na.ssl-images-amazon.com/images/I/91lx7ksfr1L.jpg"
         />
         <Product
-          id={1234123}
-          title={"Book: How to be Rich"}
-          price={129.0}
-          rating={5}
+          id={189898}
+          title={"Book: How not to starve"}
+          price={19.5}
+          rating={4}
           image="https://images-na.ssl-images-amazon.com/images/I/91lx7ksfr1L.jpg"
         />
       </div>
