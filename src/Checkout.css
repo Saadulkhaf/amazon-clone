@@ -1,0 +1,8 @@
+.checkout {
+  display: flex;
+}
+
+.checkout__image {
+  width: 100%;
+  margin-bottom: 10px;
+}
